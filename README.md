@@ -1,35 +1,27 @@
-# Welcome to Karim's GitHub! 👋
+# 👋 Welcome to Karim’s GitHub
 
-Hi there! I'm **Karim**, a Computer Science student with a passion for building user-centric apps and exploring cutting-edge technologies. Whether it's crafting sleek front-end designs, building robust back-end systems, or experimenting with new frameworks, I enjoy turning ideas into reality.
+Hi! I’m **Karim**, a **Software Engineering student at Concordia University** and a **Junior Full Stack Developer** passionate about building clean, user-focused, and scalable applications. I enjoy working across both front-end and back-end environments and turning ideas into functional, polished products.
 
 ## 🌟 About Me  
-- **💻 Interests**:  
-  - Front-end and mobile app development  
-  - Web server applications    
-  - Exploring Firebase and backend integrations  
-- **📚 Projects**: I’ve worked on various academic and personal projects, from todo apps to ASP.NET web apps and Android apps.  
-- **🎯 Goal**: To create impactful software solutions while expanding my skills in both front-end and back-end development.  
+- **Interests:** Full stack development, mobile apps, UI/UX, cloud integrations  
+- **Experience:** Built complete applications including a React-based website for the Pointe-Claire Village Association with Firebase admin tools, mobile apps, and various academic and personal projects.  
+- **Goal:** Continue developing impactful software while improving my engineering, architectural, and problem-solving skills.
 
 ## 💡 Skills  
-Here are some tools and technologies I’m familiar with:  
 
 ### **Languages & Frameworks**  
-- **Programming**: Java, JavaScript, Swift, Python, HTML, CSS  
-- **Mobile App Development**: SwiftUI, Android Studio (Java, Kotlin)  
-- **Web Development**: React, ASP.NET (Core MVC, Razor Pages)  
-- **Databases**: SQL Server, Firebase Realtime Database  
-- **UI Frameworks**: Chakra UI  
+- **Programming:** Java, JavaScript, Swift, Python, HTML, CSS  
+- **Web:** React, ASP.NET Core, Firebase, WordPress  
+- **Mobile:** SwiftUI, Android (Java/Kotlin)  
+- **Databases:** SQL Server, Firebase Firestore  
+- **UI Libraries:** Tailwind CSS, Chakra UI  
 
 ### **Tools & Platforms**  
-- Visual Studio 2022
--InteliJ
+- Git & GitHub  
+- Visual Studio 2022  
+- IntelliJ IDEA  
 - Firebase  
-- Git/GitHub
 
-  
-📧 **Email**: Karim.michelf@gmail.com
-🌐 **Portfolio**: [Karim's Website](https://karimfarag.ca/)  
-💼 **LinkedIn**: [Karim's LinkedIn](https://www.linkedin.com/in/karim-michel-farag/)  
-
-Thanks for stopping by! Looking forward to growing and building amazing projects together. 🚀  
-
+📧 **Email:** Karim.michelf@gmail.com  
+🌐 **Portfolio:** https://karimfarag.ca  
+💼 **LinkedIn:** https://www.linkedin.com/in/karim-michel-farag
